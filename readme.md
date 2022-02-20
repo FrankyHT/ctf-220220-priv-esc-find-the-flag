@@ -1,4 +1,4 @@
-# Privilege Escalation - Find the Flag
+# CTF - Privilege Escalation - Find the Flag
 
 
 Last updated: 2022-02-20 22:08:17 Sunday
