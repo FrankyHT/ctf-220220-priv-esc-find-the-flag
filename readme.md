@@ -7,7 +7,7 @@ Author: Frank HT
 
 Box link: https://mega.nz/file/0upShawT#Y87TNVio-J_hPGu_VqAPehllunWX8umDOwdKks5OU3c
 
-Walkthru: `walkthru.md`
+Walkthru: [walkthru.md](walkthru.md)
 
 ## Scenario
 A system image belonging to an employee suspected of hiding accounting data relevant to a criminal investigation has been created by local law enforcement ICT staff for forensics investigation.
